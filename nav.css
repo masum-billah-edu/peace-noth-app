@@ -31,7 +31,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 631px;
+    top: 581px;
     border-radius: 11px;
 }
 
@@ -257,7 +257,7 @@ nav a i{
    width: 90%;
    color: #fffffe;
    position: absolute;
-   top: 25%;
+   top: 19%;
    left: 50%;
    transform: translate(-50%, -50%);
    text-align: center;
@@ -296,7 +296,7 @@ nav a i{
 
 .grid-layout{
     position: relative;
-    top: 231px;
+    top: 185px;
     margin-left: 15px;
     margin-right: 15px;
     height: 291px ;
